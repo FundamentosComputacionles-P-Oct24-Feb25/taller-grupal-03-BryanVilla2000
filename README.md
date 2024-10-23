@@ -2,6 +2,9 @@
 
 # Integrantes:
 
+### * VILLA CAMACHO BRYAN MICHAEL
+### * VIÑAN UCHUARY JAVIER ALEJANDRO
+
 
 
 ## A. Análisis y creación de algoritmos sobre problemas computacionales
